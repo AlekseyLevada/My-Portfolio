@@ -1,0 +1,55 @@
+@media screen and (max-width:1030px) {
+    .popup h1 {
+        font-size: 25px;
+    }
+
+    .popup h2 {
+        font-size: 14px;
+    }
+
+    .popup h3 {
+        font-size: 14px;
+    }
+
+    .popup__button {
+        width: 200px;
+        height: 40px;
+    }
+
+    .popup img {
+        width:45px;
+        height:45px;
+    }
+
+}
+
+
+@media screen and (max-width:740px) {
+    input.popup__form-input {
+        width: 200px;
+    }
+
+    .popup .popup__phone-container img {
+        display: none;
+    }
+
+    .popup__button {
+        width: 150px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    input.popup__form-input {
+        width: 200px;
+    }
+
+    .popup h3 {
+        font-size: 12px;
+    }
+
+    .popup__button {
+        width: 150px;
+        height: 40px;
+    }
+}
