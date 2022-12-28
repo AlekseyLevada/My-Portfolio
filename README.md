@@ -1,5 +1,5 @@
 # My first frontend repository and site
-## http://aleksey.levada.unaux.com - (Ссылка может быть временно не доступна, приношу свои извинения)
+## http://aleksey.levada.unaux.com - (Ссылка может быть временно не доступна из-за вноса правок, приношу свои извинения)
 
 ## files
     - HTML
